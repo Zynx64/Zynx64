@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Milo123459)
 
-### I enjoy coding in the backend and contributing to projects
+### I enjoy coding and contributing to projects
 
 ### My current projects:
 * **Piston cli** : **A CLI-Based Compiler using the piston-api**
