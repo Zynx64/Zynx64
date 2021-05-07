@@ -14,12 +14,7 @@
 * **Deno** : **I use rust alot, so I contritbute to deno !**
 * **Samari Music** : **A music bot that plays over 900+ stations**
 
-### Things about me:
-* **I am a Google Javascript associate**
-* **I use Go, and JavaScript a lot**
-* **I am available for any projects 24/7 !**
-
 ### Contact me:
-**Send me a DM on discord ! :** **Zynx#4540**
+**Send me a DM on discord :** **Zynx#4540**
 
 
