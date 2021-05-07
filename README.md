@@ -4,11 +4,6 @@
 
 ### I enjoy coding in the backend along with contributing to projects
 
-### More about me :
-
-
-**I ♥ helping out open source projects. I've contributed to **28** open-source projects!**
-
 ### My current projects:
 * **Piston cli** : **A CLI-Based Compiler using the piston-api**
 * **Deno** : **I use rust alot, so I contritbute to deno !**
