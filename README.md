@@ -1,4 +1,4 @@
-### 👋, I'm Daniel and I work on FSP and Unreal Engine...
+### 👋, I'm currently a South Korea Based Student and I work on FSP and UEngine5...
 
 ![](https://komarev.com/ghpvc/?username=Milo123459)
 
@@ -9,6 +9,6 @@
 * **Hydralite.io** : **A developer projects platform**
 
 ### Contact me:
-**Send me a DM on discord :** **Aro#4540**
+**Send me a DM on Discord :** **ilov3cha**
 
 
