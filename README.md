@@ -1,5 +1,5 @@
 ### 👋, I'm currently a South Korea Based Student 
-I work on FSP, Circuits and UEngine5...
+I work on FSP, LLMs and UEngine5...
 
 ![](https://komarev.com/ghpvc/?username=Milo123459)
 
