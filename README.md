@@ -7,7 +7,7 @@ I work on FSP, LLMs and UEngine5...
 
 ### My legacy and current projects:
 * **Deno** : **Contributed to pre release beta versions of Deno**
-* **Hydralite.io** : **A developer projects platform in making**
+* **Hydralite.io** : **A developer projects platform (later changed to Dimension.dev)**
 
 ### Contact me:
 **Send me a DM on Discord :** **ilov3cha**
