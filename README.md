@@ -1,4 +1,4 @@
-### 👋, I'm currently a South Korea Based Student 
+### 👋, I'm currently a South Korea Based Student... 
 
 
 ![](https://komarev.com/ghpvc/?username=Milo123459)
